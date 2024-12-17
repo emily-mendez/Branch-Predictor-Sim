@@ -27,4 +27,5 @@ The output file has the following format:
 Where each
 
 \# corresponds to the number of correct predictions made by each of the predictors
+
 @ corresponds to the number of branches.
